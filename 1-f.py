@@ -13,5 +13,5 @@ print y
 
 d = np.correlate(x,y)
 
-print d
+print "correlation of x & y ",d
 

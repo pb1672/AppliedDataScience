@@ -13,5 +13,5 @@ print y
 
 d = np.cov(x,y)
 
-print d
+print "covariance of x & y:",d
 

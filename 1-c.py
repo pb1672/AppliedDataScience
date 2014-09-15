@@ -11,6 +11,6 @@ y=range(0,10)
 random.shuffle(y)
 print y
 
-print np.var(x)
-print np.var(y)
+print "variation of x:",np.var(x)
+print "variation of y:",np.var(y)
 

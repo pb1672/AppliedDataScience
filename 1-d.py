@@ -11,6 +11,6 @@ y=range(0,10)
 random.shuffle(y)
 print y
 
-print np.std(x)
-print np.(y)
+print "standard deviation of x:",np.std(x)
+print "standard deviation of y:",np.std(y)
 

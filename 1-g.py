@@ -16,9 +16,9 @@ c=y[2]-m*x[2]
 
 y=m*13+c
 
-print m
+print "slope of line:",m
 
-print c
+print "intercept of line:",c
 
-print y
+print "value of y:",y
 

@@ -11,6 +11,6 @@ y=range(0,10)
 random.shuffle(y)
 print y
 
-print np.mean(x)
-print np.mean(x)
+print "mean of x:",np.mean(x)
+print "mean of y:",np.mean(y)
 
